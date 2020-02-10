@@ -1,0 +1,34 @@
+[
+  {
+    athletename: 'Ahmad Ashari',
+    athleteimage: require('@assets/athlete/dummy/i-user1.jpeg')
+  },
+  {
+    athletename: 'Amelia Gopeng',
+    athleteimage: require('@assets/athlete/dummy/i-user4.jpg')
+  },
+  {
+    athletename: 'Badrol Zaman',
+    athleteimage: require('@assets/athlete/dummy/i-user3.jpeg')
+  },
+  {
+    athletename: 'Chua Chee Chang',
+    athleteimage: require('@assets/athlete/dummy/i-user16.jpg')
+  },
+  {
+    athletename: 'Dinesh A/L Ramasamy',
+    athleteimage: require('@assets/athlete/dummy/i-user5.jpg')
+  },
+  {
+    athletename: 'Rancho A/L Mutusamy',
+    athleteimage: require('@assets/athlete/dummy/i-user14.jpeg')
+  },
+  {
+    athletename: 'Lim Pau Yaa',
+    athleteimage: require('@assets/athlete/dummy/i-user15.jpg')
+  },
+  {
+    athletename: 'Surendran A/L Ganesh',
+    athleteimage: require('@assets/athlete/dummy/i-user3.jpeg')
+  }
+]
