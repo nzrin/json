@@ -1,0 +1,20 @@
+[
+   {
+      "title":"Courier",
+      "type":"app",
+      "navigate":"Courier",
+      "image":"shuttle-van"
+   },
+   {
+      "title":"Mover",
+      "type":"app",
+      "navigate":"Mover",
+      "image":"truck"
+   },
+   {
+      "title":"Extra",
+      "type":"web",
+      "navigate":"https://delyva.com/my/pricing/",
+      "image":"bullhorn"
+   }
+]
