@@ -16,5 +16,35 @@
       "type":"web",
       "navigate":"https://delyva.com/my/pricing/",
       "image":"bullhorn"
+   },
+   {
+      "title":"Partners",
+      "type":"web",
+      "navigate":"https://delyva.com/my/partners/",
+      "image":"briefcase"
+   },
+   {
+      "title":"Ambassador",
+      "type":"web",
+      "navigate":"https://delyva.com/my/brand-ambassador/",
+      "image":"child"
+   },
+   {
+      "title":"Rider",
+      "type":"web",
+      "navigate":"https://delyva.com/my/rider-driver/",
+      "image":"motorcycle"
+   },
+   {
+      "title":"Rates",
+      "type":"web",
+      "navigate":"https://delyva.com/my/check-rates/",
+      "image":"comment-dollar"
+   },
+   {
+      "title":"Features",
+      "type":"web",
+      "navigate":"https://delyva.com/my/features/",
+      "image":"buffer"
    }
 ]
