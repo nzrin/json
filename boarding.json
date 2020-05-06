@@ -1,0 +1,30 @@
+[
+   {
+      "index":"0",
+      "title":"Order On Demand Delivery",
+      "description":"Express delivery from your door with this app.",
+      "iconTitle":"Delivery",
+      "iconImage":"truck"
+   },
+   {
+      "index":"1",
+      "title":"Food Delivery",
+      "description":"Food delivery from your door with this app.",
+      "iconTitle":"Food",
+      "iconImage":"utensils"
+   },
+   {
+      "index":"2",
+      "title":"Runner Service",
+      "description":"Runner service made your life better.",
+      "iconTitle":"Runner",
+      "iconImage":"running"
+   },
+   {
+      "index":"3",
+      "title":"Other Services",
+      "description":"Explore other services to make your life better.",
+      "iconTitle":"Other Services",
+      "iconImage":"clone"
+   }
+]
