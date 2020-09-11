@@ -1,0 +1,29 @@
+{
+   "data":[
+      {
+         "burgerId":0,
+         "burgerName":"Burger Daging Mantul",
+         "burgerImage":"https://i.ibb.co/HVkyfJc/demob-1.jpg"
+      },
+      {
+         "burgerId":1,
+         "burgerName":"Burger Benjo Sedap",
+         "burgerImage":"https://i.ibb.co/TLLvrfF/demob-2.jpg"
+      },
+      {
+         "burgerId":2,
+         "burgerName":"Burger Ayam Sedap",
+         "https://i.ibb.co/y6y4whF/demob-3.jpg"
+      },
+      {
+         "burgerId":3,
+         "burgerName":"Burger Rusa Sedap",
+         "burgerImage":"https://i.ibb.co/RSQWKsY/demob-4.jpg"
+      },
+      {
+         "burgerId":4,
+         "burgerName":"Burger Arnab Sedap",
+         "burgerImage":"https://i.ibb.co/YRB97L2/demob-5.jpg"
+      }
+   ]
+}
