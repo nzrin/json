@@ -1,0 +1,30 @@
+[
+   {
+      "title":"Delivery",
+      "type":"app",
+      "navigate":"Courier",
+      "image":"shuttle-van",
+      "personnel": "no"
+   },
+   {
+      "title":"Mover",
+      "type":"app",
+      "navigate":"Mover",
+      "image":"truck",
+      "personnel": "no"
+   },
+   {
+      "title":"Kedai",
+      "type":"web",
+      "navigate":"https://matdespatch.com/my/kedai",
+      "image":"shopping-cart",
+      "personnel": "no"
+   },
+   {
+      "title":"Makan",
+      "type":"web",
+      "navigate":"https://matdespatch.com/my/makan",
+      "image":"utensils",
+      "personnel": "no"
+   }
+]
